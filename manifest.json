@@ -1,6 +1,6 @@
 {
-	"name": "PWA Coba",
-	"short_name": "PWA Coba",
+	"name": "Rental Car Application",
+	"short_name": "RCA - Surya Wiguna",
 	"start_url": ".",
 	"display": "standalone",
 	"background_color": "#2A3443",
@@ -8,19 +8,19 @@
 	"theme_color": "#2A3443",
 	"icons": [
 		{
-			"src": "img/calculator.png",
+			"src": "img/car.svg",
 			"sizes": "512x512",
-			"type": "image/png"
+			"type": "image/svg"
 		},
 		{
-			"src": "img/calculator-192.png",
+			"src": "img/car-192.svg",
 			"sizes": "192x192",
-			"type": "image/png"
+			"type": "image/svg"
 		},
 		{
-			"src": "img/calculator-144.png",
+			"src": "img/car-144.svg",
 			"sizes": "144x144",
-			"type": "image/png"
+			"type": "image/svg"
 		}
 	]
 }
