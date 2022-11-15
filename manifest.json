@@ -1,26 +1,26 @@
 {
-	"name": "Rental Car Application",
-	"short_name": "RCA - Surya Wiguna",
+	"name": "Car Rental Application",
+	"short_name": "CRA - Surya Wiguna",
 	"start_url": ".",
 	"display": "standalone",
 	"background_color": "#2A3443",
-	"description": "carselling application",
+	"description": "Car Rental Application",
 	"theme_color": "#2A3443",
 	"icons": [
 		{
-			"src": "img/car.svg",
-			"sizes": "520x520",
-			"type": "image/svg"
+			"src": "img/car.png",
+			"sizes": "512x512",
+			"type": "image/png"
 		},
 		{
-			"src": "img/car-192.svg",
+			"src": "img/car-192.png",
 			"sizes": "192x192",
-			"type": "image/svg"
+			"type": "image/png"
 		},
 		{
-			"src": "img/car-144.svg",
+			"src": "img/car-144.png",
 			"sizes": "144x144",
-			"type": "image/svg"
+			"type": "image/png"
 		}
 	]
 }
